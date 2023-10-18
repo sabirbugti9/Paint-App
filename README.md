@@ -1,4 +1,4 @@
-## Introducing Kuas - Your Versatile Drawing and Note-Taking App 🎨📝
+## Introducing Paint App - Your Versatile Drawing and Note-Taking App 🎨📝
 
 Kuas is a user-friendly app that offers both drawing and note-taking capabilities. Whether you're an artist or need a place to jot down ideas, Kuas has you covered.
 
@@ -22,8 +22,8 @@ Access your work and notes across your devices. Kuas ensures your creativity and
 <b> Here's the preview : </b>
 
 
-https://github.com/RakhaGalih/kuas/assets/54633534/7b7751e8-682c-4c9f-9ed6-9eb9f81028af
+https://github.com/Sabirbugti9/Paint-App/assets/54633534/7b7751e8-682c-4c9f-9ed6-9eb9f81028af
 
-Made with ❤️ by Rakha. Please enjoy!
+Made with ❤️ by Sabir Bugti. Please enjoy!
 
 Tutorial by @retroportalstudio
